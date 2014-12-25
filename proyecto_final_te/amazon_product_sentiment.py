@@ -8,9 +8,9 @@ import requests
 from pprint import pprint
 from amazonproduct import API
 config = {
-    'access_key': 'AKIAIOPFA44WF2W7AAQA',
-    'secret_key': '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',
-    'associate_tag': 'richddrtmproj-20',
+    'access_key': 'access_key',
+    'secret_key': 'secret_key',
+    'associate_tag': 'dhdhdhdhdhdhd-richddrjhdhdjhdjhdjtmproj-20-shshdhdhdhddhdj',
     'locale': 'us'
 }
 api = API(cfg=config)
